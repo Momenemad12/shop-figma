@@ -3,8 +3,7 @@
 A modern and responsive fashion e-commerce landing page built using **HTML** and **CSS**.
 
 ## 🚀 Live Demo
-(ضع هنا لينك GitHub Pages بعد ما تنشره)
-
+(https://momenemad12.github.io/shop-figma/)
 ---
 
 ## 📌 Features
